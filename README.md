@@ -58,7 +58,9 @@ The Power BI dashboard consists of the following sections:
 ---
 
 ## Part 2: Predictive Modeling (To Be Added)
-
+<p align="center">
+  <img src="https://github.com/Youssefkabbir/Customer_Churn_Analysis/blob/main/Python_code.png" alt="Python Screenshot">
+</p>
 In the second phase of this project, a **machine learning model** will be developed to predict customer churn. This will involve:
 
 1. **Data Preprocessing:** Handling missing values, encoding categorical variables, and feature scaling.
