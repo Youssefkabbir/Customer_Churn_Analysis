@@ -7,6 +7,9 @@ This project is divided into two parts:
 2. **Predictive Modeling with Machine Learning** - Building a predictive model to identify potential churn using machine learning.
 
 ---
+<p align="center">
+  <img src="C:\Users\kabir\Pictures\Screenshots\Customer_churn_Analysis.png" alt="Dashboard Screenshot">
+</p>
 
 ## Part 1: Power BI Dashboard
 
