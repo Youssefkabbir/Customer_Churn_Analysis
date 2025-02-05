@@ -7,11 +7,11 @@ This project is divided into two parts:
 2. **Predictive Modeling with Machine Learning** - Building a predictive model to identify potential churn using machine learning.
 
 ---
-<p align="center">
-  <img src="https://drive.google.com/file/d/1uoxz8JG7oxZ8iTuiDZx2BaxaGJOJG5Uv/view?usp=sharing" alt="Dashboard Screenshot">
-</p>
 
 ## Part 1: Power BI Dashboard
+<p align="center">
+  <img src="https://github.com/Youssefkabbir/Customer_Churn_Analysis/blob/main/Customer_churn_Analysis.png" alt="Dashboard Screenshot">
+</p>
 
 ### **Objective**
 The Power BI dashboard provides an in-depth analysis of customer churn by visualizing key metrics and trends. It helps in understanding customer behavior, churn patterns, and factors affecting churn rates.
