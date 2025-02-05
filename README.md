@@ -1,4 +1,7 @@
 # Customer Churn Analysis Project
+<p align="center">
+  <img src="https://github.com/Youssefkabbir/Customer_Churn_Analysis/blob/main/customerchurn.jpeg" alt="Dashboard Screenshot">
+</p>
 
 ## Overview
 This project is divided into two parts:
