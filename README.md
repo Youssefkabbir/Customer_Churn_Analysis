@@ -65,9 +65,9 @@ The Power BI dashboard consists of the following sections:
 </p>
 In the second phase of this project, a **machine learning model** will be developed to predict customer churn. This will involve:
 
-1. **Data Preprocessing:** Handling missing values, encoding categorical variables, and feature scaling.
+1. **Data Preprocessing:**  encoding categorical variables, and feature scaling.
 2. **Exploratory Data Analysis (EDA):** Understanding data distributions, feature importance, and correlations.
-3. **Model Selection:** Testing multiple models such as Logistic Regression, Random Forest, and XGBoost.
+3. **Model Selection:** Testing multiple models such as Logistic Regression, Random Forest.
 4. **Model Evaluation:** Using accuracy, precision, recall, and F1-score to evaluate performance.
 5. **Deployment:** Deploying the predictive model for real-time churn prediction.
 
@@ -80,6 +80,4 @@ In the second phase of this project, a **machine learning model** will be develo
 │── 📂 Python        # Machine Learning scripts and Jupyter notebooks
 │── README.md            # Project documentation
 ```
-
-This README will be updated with details on the **predictive modeling phase** once it is implemented.
 
