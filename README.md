@@ -8,7 +8,7 @@ This project is divided into two parts:
 
 ---
 <p align="center">
-  <img src="C:\Users\kabir\Pictures\Screenshots\Customer_churn_Analysis.png" alt="Dashboard Screenshot">
+  <img src="https://drive.google.com/file/d/1uoxz8JG7oxZ8iTuiDZx2BaxaGJOJG5Uv/view?usp=sharing" alt="Dashboard Screenshot">
 </p>
 
 ## Part 1: Power BI Dashboard
