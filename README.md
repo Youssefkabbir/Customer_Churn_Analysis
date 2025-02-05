@@ -57,7 +57,7 @@ The Power BI dashboard consists of the following sections:
 
 ---
 
-## Part 2: Predictive Modeling (To Be Added)
+## Part 2: Predictive Modeling
 <p align="center">
   <img src="https://github.com/Youssefkabbir/Customer_Churn_Analysis/blob/main/Python_code.png" alt="Python Screenshot">
 </p>
@@ -74,8 +74,8 @@ In the second phase of this project, a **machine learning model** will be develo
 ## Repository Structure
 ```plaintext
 📂 Customer_Churn_Analysis
-│── 📂 PowerBI_Dashboard  # Contains Power BI reports and DAX formulas
-│── 📂 ML_Modeling        # Machine Learning scripts and Jupyter notebooks
+│── 📂 BI_Tools  # Contains Power BI reports and DAX formulas
+│── 📂 Python        # Machine Learning scripts and Jupyter notebooks
 │── README.md            # Project documentation
 ```
 
